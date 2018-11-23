@@ -1,0 +1,4 @@
+import 1
+cmp : put 1
+put 1
+ncmp : put 0
